@@ -1,3 +1,4 @@
+"use client"
 import ChristmasQuiz from '@/components/quiz/ChristmasQuiz';
 
 export default function Home() {
